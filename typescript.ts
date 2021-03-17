@@ -1,4 +1,4 @@
-//export {}
+export {}
 //console.log("hello");
 
 //STRING VERİ TİPİ
